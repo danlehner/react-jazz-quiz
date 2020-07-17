@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Clarendon Regular";
+  font-family: "Clarendon Regular", sans-serif;
 }
 
 h1 {
@@ -43,7 +43,7 @@ p {
 
 .hint-prompt {
   font-size: 20px;
-  font-family: "Clarendon Regular";
+  font-family: "Clarendon Regular", sans-serif;
   color: #b51c1d;
   text-shadow: 1px 1px black;
   margin: 20px 0;
@@ -53,7 +53,7 @@ p {
 .hint-prompt-mobile {
   display: none;
   font-size: 20px;
-  font-family: "Clarendon Regular";
+  font-family: "Clarendon Regular", sans-serif;
   color: #b51c1d;
   text-shadow: 1px 1px black;
   margin: 20px 0;
@@ -167,6 +167,7 @@ p {
 .start-over {
   font-size: 25px;
   width: 170px;
+  font-family: "Clarendon Regular", sans-serif; 
 }
 
 .question,
@@ -262,7 +263,7 @@ p {
 }
 
 .hint-text {
-  font-family: "Clarendon Regular";
+  font-family: "Clarendon Regular", sans-serif;
   font-size: 20px;
   line-height: 30px;
   margin: 100px auto;
@@ -311,7 +312,7 @@ p {
   padding: 10px;
 }
 .score-text {
-  font-family: "Clarendon Regular";
+  font-family: "Clarendon Regular", sans-serif;
   padding: 10px;
 }
 
