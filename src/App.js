@@ -98,9 +98,7 @@ function App() {
         draft.index = 0
         draft.isIntroUp = true
         draft.quizDone = false
-        draft.rightSets = []
         draft.rightAnswers = []
-        draft.wrongSets = []
         draft.wrongAnswers = []
         draft.correctionArray = []
         draft.rightQuestionList = []
