@@ -57,9 +57,7 @@ function App() {
     index: 0,
     isIntroUp: true,
     quizDone: false,
-    rightSets: [],
     rightAnswers: [],
-    wrongSets: [],
     wrongAnswers: [],
     correctionArray: [],
     rightQuestionList: [],
@@ -81,11 +79,9 @@ function App() {
         draft.quizDone = true
         return
       case "rightAnswer":
-        draft.rightSets.push(action.set)
         draft.rightAnswers.push(action.value)
         return
       case "wrongAnswer":
-        draft.wrongSets.push(action.set)
         draft.wrongAnswers.push(action.value)
         return
       case "correcting":
