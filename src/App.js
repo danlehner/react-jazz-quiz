@@ -64,7 +64,7 @@ function App() {
     wrongQuestionList: [],
   }
 
-  function ourReducer(draft, action) {
+  function gameReducer(draft, action) {
     switch (action.type) {
       case "gameStarter":
         draft.isIntroUp = false
@@ -111,7 +111,7 @@ function App() {
     }
   }
 
-  const [state, dispatch] = useImmerReducer(ourReducer, initialState)
+  const [state, dispatch] = useImmerReducer(gameReducer, initialState)
 
   return (
     <StateContext.Provider value={state}>
