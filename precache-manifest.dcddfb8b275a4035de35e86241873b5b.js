@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "10f212d45ec66a9c51de8d07ef6eb002",
+    "revision": "cecbceb0438c5289363eef61b8e09de4",
     "url": "/react-jazz-quiz/index.html"
   },
   {
-    "revision": "27090eb10883c58f9134",
-    "url": "/react-jazz-quiz/static/css/main.dd212fff.chunk.css"
+    "revision": "9f8fa80f2fff6dde094e",
+    "url": "/react-jazz-quiz/static/css/main.3fa08c82.chunk.css"
   },
   {
     "revision": "a21d22be6de049607cae",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-jazz-quiz/static/js/2.cea15591.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "27090eb10883c58f9134",
-    "url": "/react-jazz-quiz/static/js/main.681447b5.chunk.js"
+    "revision": "9f8fa80f2fff6dde094e",
+    "url": "/react-jazz-quiz/static/js/main.88d899c3.chunk.js"
   },
   {
     "revision": "747c913ba3e871e86374",
